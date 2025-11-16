@@ -1,0 +1,14 @@
+{
+  "tkj1": {
+    "senin": ["IPA", "IPS", "PKN", "MTK", "B.INDO"],
+    "selasa": ["B.ING", "RPL", "PKN", "AGAMA"],
+    "rabu": ["RPL", "JARINGAN", "B.INDO"],
+    "kamis": ["IPA", "IPS", "PJOK"]
+  },
+  "tkj2": {
+    "senin": ["MTK", "B.ING", "IPA"],
+    "selasa": ["RPL", "JARINGAN", "B.INDO"],
+    "rabu": ["AGAMA", "PJOK"],
+    "kamis": ["IPS", "PKN", "RPL"]
+  }
+}
