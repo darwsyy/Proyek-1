@@ -8,7 +8,7 @@ def get_today():
         "tuesday": "selasa",
         "wednesday": "rabu",
         "thursday": "kamis",
-        "friday": "jumat",
+        "friday": "jum'at",
         "saturday": "sabtu",
         "sunday": "minggu"
     }

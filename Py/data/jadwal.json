@@ -1,14 +1,17 @@
 {
   "tkj1": {
-    "senin": ["IPA", "IPS", "PKN", "MTK", "B.INDO"],
-    "selasa": ["B.ING", "RPL", "PKN", "AGAMA"],
-    "rabu": ["RPL", "JARINGAN", "B.INDO"],
-    "kamis": ["IPA", "IPS", "PJOK"]
+    "senin": ["JARDAS"],
+    "selasa": ["B.ING", "INFOR", "PKN", "AGAMA"],
+    "rabu": ["TELKOM", "JARINGAN", "B.INDO"],
+    "kamis": ["IPA", "IPS", "PJOK"],
+    "jum'at" : ["BK", "B.JAWA", "MAT"] 
   },
   "tkj2": {
-    "senin": ["MTK", "B.ING", "IPA"],
-    "selasa": ["RPL", "JARINGAN", "B.INDO"],
-    "rabu": ["AGAMA", "PJOK"],
-    "kamis": ["IPS", "PKN", "RPL"]
+    "senin": ["PJOK", "SEJARAH", "PANCASILA", "SENI"],
+    "selasa": ["TELKOM", "B.ING", "B.INDO"],
+    "rabu": ["AGAMA", "JARDAS"],
+    "kamis": ["INFOR", "IPS", "IPA"],
+    "jum'at" : ["BK", "B.JAWA", "MAT"],
+    "minggu" : ["IPA", "IPS", "MTK"]
   }
 }

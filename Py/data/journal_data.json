@@ -1,1 +1,64 @@
-[]
+[
+    {
+        "kelas": "tkj2",
+        "tanggal": "16-11-2025",
+        "hari": "minggu",
+        "pelajaran": [
+            {
+                "jam": 1,
+                "mapel": "IPA",
+                "guru": "budi",
+                "materi": "sasa",
+                "hadir": 34,
+                "tidak_hadir": 3
+            },
+            {
+                "jam": 2,
+                "mapel": "IPS",
+                "guru": "ya",
+                "materi": "sasa",
+                "hadir": 37,
+                "tidak_hadir": 0
+            },
+            {
+                "jam": 3,
+                "mapel": "MTK",
+                "guru": "ya",
+                "materi": "sasa",
+                "hadir": 37,
+                "tidak_hadir": 0
+            }
+        ]
+    },
+    {
+        "kelas": "tkj2",
+        "tanggal": "16-11-2025",
+        "hari": "minggu",
+        "pelajaran": [
+            {
+                "jam": 1,
+                "mapel": "IPA",
+                "guru": "n",
+                "materi": "n",
+                "hadir": 29,
+                "tidak_hadir": 8
+            },
+            {
+                "jam": 2,
+                "mapel": "IPS",
+                "guru": "j",
+                "materi": "j",
+                "hadir": 28,
+                "tidak_hadir": 9
+            },
+            {
+                "jam": 3,
+                "mapel": "MTK",
+                "guru": "u",
+                "materi": "u",
+                "hadir": 28,
+                "tidak_hadir": 9
+            }
+        ]
+    }
+]
